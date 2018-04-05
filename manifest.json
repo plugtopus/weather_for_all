@@ -1,0 +1,28 @@
+{
+    "author": "Plugtopus Agency",
+   "background": {
+      "page": "html/background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": {
+         "38": "icon/icon38.png"
+      },
+      "default_popup": "html/popup.html",
+      "default_title": "__MSG_title__"
+   },
+   "description": "__MSG_desc__",
+   "homepage_url": "https://plugtopus.agency",
+   "default_locale": "ru",
+   "icons": {
+      "128": "icon/icon128.png",
+      "64": "icon/icon64.png",
+      "48": "icon/icon48.png"
+
+   },
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "permissions": [ "alarms", "storage", "geolocation", "*://*.timleland.com/*", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.4.18.1"
+}
