@@ -25880,7 +25880,7 @@
     ]), r.locals && (e.exports = r.locals);
     n(3)("0012a4d4", r, !0)
 }, function (e, t, n) {
-    t = e.exports = n(2)(void 0), t.push([e.i, '.location-wrapper[data-v-9a7da2b0]{color:#fff;flex-grow:1;user-select:none}.location-wrapper .location-overlay[data-v-9a7da2b0]{display:block;position:fixed;bottom:0;top:52px;left:0;right:0;background-color:rgba(0,0,0,.3);width:100%;height:100%}.location-wrapper .location[data-v-9a7da2b0]:hover{color:#ccc}.location-wrapper .location-picker-wrapper[data-v-9a7da2b0]{z-index:10;box-shadow:0 50px 40px rgba(0,0,0,.5);background-color:#262626;position:absolute;width:75%;text-align:center;margin-left:auto;margin-right:auto;left:0;right:0;top:60px}.location-wrapper .location-picker-wrapper .locationList[data-v-9a7da2b0],.location-wrapper .location-picker-wrapper .locationSearchList[data-v-9a7da2b0]{overflow-y:auto;max-height:250px}.location-wrapper .location-picker-wrapper .locationSearchList[data-v-9a7da2b0]{height:193px}.location-wrapper .location-picker-wrapper .addLocationButton[data-v-9a7da2b0]{border-top:2px solid #fff;padding:10px;display:flex}.location-wrapper .location-picker-wrapper .addLocationButton .left[data-v-9a7da2b0]{width:32px}.location-wrapper .location-picker-wrapper .addLocationButton .middle[data-v-9a7da2b0]{flex-grow:1}.location-wrapper .location-picker-wrapper .addLocationButton .right[data-v-9a7da2b0]{color:#4681c3}.location-wrapper .location-picker-wrapper .searchLocationInput[data-v-9a7da2b0]{border-bottom:2px solid #fff;padding:10px;height:35px}.location-wrapper .location-picker-wrapper[data-v-9a7da2b0]:after{top:-25px;content:"";position:absolute;border-style:solid;border-width:0 25px 25px;border-color:#262626 transparent;display:block;left:50%;margin-left:-25px}.location-wrapper .location-picker-wrapper li[data-v-9a7da2b0]{display:flex;text-align:center;padding:0 10px}.location-wrapper .location-picker-wrapper li[data-v-9a7da2b0]:not(:last-child){border-bottom:1px dashed #fff}.location-wrapper .location-picker-wrapper li .locationName[data-v-9a7da2b0]{flex-grow:1}.location-wrapper .location-picker-wrapper li .listPadding[data-v-9a7da2b0]{padding:15px 0 2px}.location-wrapper .location-picker-wrapper li .placeholderLocation[data-v-9a7da2b0]{height:49px}.location-wrapper .location-picker-wrapper li .deleteIcon[data-v-9a7da2b0],.location-wrapper .location-picker-wrapper li .locationArrow[data-v-9a7da2b0],.location-wrapper .location-picker-wrapper li .locationSpinner[data-v-9a7da2b0],.location-wrapper .location-picker-wrapper li .reorderHandle[data-v-9a7da2b0]{width:30px}.location-wrapper .location-picker-wrapper li .deleteIcon[data-v-9a7da2b0],.location-wrapper .location-picker-wrapper li .locationArrow[data-v-9a7da2b0],.location-wrapper .location-picker-wrapper li .locationSpinner[data-v-9a7da2b0]{margin-left:auto}.location-wrapper .location-picker-wrapper li[data-v-9a7da2b0]:hover{color:#ccc}.location-wrapper .location-picker-wrapper li .currentLocation[data-v-9a7da2b0]{color:#4681c3}.location-wrapper .location-picker-wrapper li:hover .deleteIcon[data-v-9a7da2b0],.location-wrapper .location-picker-wrapper li:hover .reorderHandle[data-v-9a7da2b0]{visibility:visible}.location-wrapper .location-picker-wrapper li .deleteIcon[data-v-9a7da2b0],.location-wrapper .location-picker-wrapper li .reorderHandle[data-v-9a7da2b0]{visibility:hidden}.location-wrapper .location-picker-wrapper li .reorderHandle[data-v-9a7da2b0]{cursor:move}.location-wrapper .slider-enter-active[data-v-9a7da2b0]{max-height:283px;transition:all .5s ease}.location-wrapper .slider-leave-active[data-v-9a7da2b0]{max-height:0;opacity:0;transition:all .4s ease}.location-wrapper .slider-leave[data-v-9a7da2b0]{max-height:283px}.location-wrapper .slider-enter[data-v-9a7da2b0]{opacity:0;max-height:0}.location-wrapper .flipIconUp[data-v-9a7da2b0]{transition:.25s ease-in;transform:rotateX(180deg)}.location-wrapper .flipIconDown[data-v-9a7da2b0]{transition:.25s ease-out;transform:rotateX(0deg)}', ""])
+    t = e.exports = n(2)(void 0), t.push([e.i, '.location-wrapper[data-v-9a7da2b0]{color:#fff;flex-grow:1;user-select:none}.location-wrapper .location-overlay[data-v-9a7da2b0]{display:block;position:fixed;bottom:0;top:52px;left:0;right:0;background-color:rgba(0,0,0,.3);width:100%}.location-wrapper .location[data-v-9a7da2b0]:hover{color:#ccc}.location-wrapper .location-picker-wrapper[data-v-9a7da2b0]{z-index:10;box-shadow:0 50px 40px rgba(0,0,0,.5);background-color:#262626;position:absolute;width:75%;text-align:center;margin-left:auto;margin-right:auto;left:0;right:0;top:60px}.location-wrapper .location-picker-wrapper .locationList[data-v-9a7da2b0],.location-wrapper .location-picker-wrapper .locationSearchList[data-v-9a7da2b0]{overflow-y:auto;max-height:250px}.location-wrapper .location-picker-wrapper .locationSearchList[data-v-9a7da2b0]{height:193px}.location-wrapper .location-picker-wrapper .addLocationButton[data-v-9a7da2b0]{border-top:2px solid #fff;padding:10px;display:flex}.location-wrapper .location-picker-wrapper .addLocationButton .left[data-v-9a7da2b0]{width:32px}.location-wrapper .location-picker-wrapper .addLocationButton .middle[data-v-9a7da2b0]{flex-grow:1}.location-wrapper .location-picker-wrapper .addLocationButton .right[data-v-9a7da2b0]{color:#4681c3}.location-wrapper .location-picker-wrapper .searchLocationInput[data-v-9a7da2b0]{border-bottom:2px solid #fff;padding:10px;height:35px}.location-wrapper .location-picker-wrapper[data-v-9a7da2b0]:after{top:-25px;content:"";position:absolute;border-style:solid;border-width:0 25px 25px;border-color:#262626 transparent;display:block;left:50%;margin-left:-25px}.location-wrapper .location-picker-wrapper li[data-v-9a7da2b0]{display:flex;text-align:center;padding:0 10px}.location-wrapper .location-picker-wrapper li[data-v-9a7da2b0]:not(:last-child){border-bottom:1px dashed #fff}.location-wrapper .location-picker-wrapper li .locationName[data-v-9a7da2b0]{flex-grow:1}.location-wrapper .location-picker-wrapper li .listPadding[data-v-9a7da2b0]{padding:15px 0 2px}.location-wrapper .location-picker-wrapper li .placeholderLocation[data-v-9a7da2b0]{height:49px}.location-wrapper .location-picker-wrapper li .deleteIcon[data-v-9a7da2b0],.location-wrapper .location-picker-wrapper li .locationArrow[data-v-9a7da2b0],.location-wrapper .location-picker-wrapper li .locationSpinner[data-v-9a7da2b0],.location-wrapper .location-picker-wrapper li .reorderHandle[data-v-9a7da2b0]{width:30px}.location-wrapper .location-picker-wrapper li .deleteIcon[data-v-9a7da2b0],.location-wrapper .location-picker-wrapper li .locationArrow[data-v-9a7da2b0],.location-wrapper .location-picker-wrapper li .locationSpinner[data-v-9a7da2b0]{margin-left:auto}.location-wrapper .location-picker-wrapper li[data-v-9a7da2b0]:hover{color:#ccc}.location-wrapper .location-picker-wrapper li .currentLocation[data-v-9a7da2b0]{color:#4681c3}.location-wrapper .location-picker-wrapper li:hover .deleteIcon[data-v-9a7da2b0],.location-wrapper .location-picker-wrapper li:hover .reorderHandle[data-v-9a7da2b0]{visibility:visible}.location-wrapper .location-picker-wrapper li .deleteIcon[data-v-9a7da2b0],.location-wrapper .location-picker-wrapper li .reorderHandle[data-v-9a7da2b0]{visibility:hidden}.location-wrapper .location-picker-wrapper li .reorderHandle[data-v-9a7da2b0]{cursor:move}.location-wrapper .slider-enter-active[data-v-9a7da2b0]{max-height:283px;transition:all .5s ease}.location-wrapper .slider-leave-active[data-v-9a7da2b0]{max-height:0;opacity:0;transition:all .4s ease}.location-wrapper .slider-leave[data-v-9a7da2b0]{max-height:283px}.location-wrapper .slider-enter[data-v-9a7da2b0]{opacity:0;max-height:0}.location-wrapper .flipIconUp[data-v-9a7da2b0]{transition:.25s ease-in;transform:rotateX(180deg)}.location-wrapper .flipIconDown[data-v-9a7da2b0]{transition:.25s ease-out;transform:rotateX(0deg)}', ""])
 }, function (e, t, n) {
     "use strict";
     Object.defineProperty(t, "__esModule", {
@@ -26962,28 +26962,26 @@
                         } else e.state.settings.show_animated_icons = i
                     }
                 }
-            }), e._v(" "), n("div", {
-                staticClass: "label"
-            }, [e._v(e._s(e.state.words.AnimatedIcons))]), e._v(" "), n("span", [e._m(0), n("span", {
+            }), e._v(" "), n("", {
+                staticClass: ""
+            }, [e._v(e._s(e.state.words.AnimatedIcons))]), e._v(" "), n("", [e._m(0), n("", {
                 domProps: {
-                    innerHTML: e._s(e.proSettingText)
                 },
                 on: {
-                    click: e.openUpgradePro
                 }
-            }), e._v(" "), n("a")])])]), e._v(" "), n("div", {
-                staticClass: "option"
-            }, [n("label", {
-                staticClass: "switch-light switch-candy pointer"
-            }, [n("input", {
+            }), e._v(" "), n("")])])]), e._v(" "), n("", {
+                staticClass: ""
+            }, [n("", {
+                staticClass: ""
+            }, [n("", {
                 directives: [{
-                    name: "model",
-                    rawName: "v-model",
+                    name: "",
+                    rawName: "",
                     value: e.state.settings.show_severe_alerts,
-                    expression: "state.settings.show_severe_alerts"
+                    expression: ""
                 }],
                 attrs: {
-                    type: "checkbox"
+                    type: ""
                 },
                 domProps: {
                     checked: Array.isArray(e.state.settings.show_severe_alerts) ? e._i(e.state.settings.show_severe_alerts, null) > -1 : e.state.settings.show_severe_alerts
@@ -26999,28 +26997,26 @@
                         } else e.state.settings.show_severe_alerts = i
                     }
                 }
-            }), e._v(" "), n("div", {
-                staticClass: "label"
-            }, [e._v(e._s(e.state.words.SevereAlerts))]), e._v(" "), n("span", [e._m(1), n("span", {
+            }), e._v(" "), n("", {
+                staticClass: ""
+            }, [e._v(e._s(e.state.words.SevereAlerts))]), e._v(" "), n("", [e._m(1), n("", {
                 domProps: {
-                    innerHTML: e._s(e.proSettingText)
                 },
                 on: {
-                    click: e.openUpgradePro
                 }
-            }), e._v(" "), n("a")])])]), e._v(" "), n("div", {
-                staticClass: "option"
-            }, [n("label", {
-                staticClass: "switch-light switch-candy pointer"
-            }, [n("input", {
+            }), e._v(" "), n("")])])]), e._v(" "), n("", {
+                staticClass: ""
+            }, [n("", {
+                staticClass: ""
+            }, [n("", {
                 directives: [{
-                    name: "model",
-                    rawName: "v-model",
+                    name: "",
+                    rawName: "",
                     value: e.state.settings.show_precip_alerts,
-                    expression: "state.settings.show_precip_alerts"
+                    expression: ""
                 }],
                 attrs: {
-                    type: "checkbox"
+                    type: ""
                 },
                 domProps: {
                     checked: Array.isArray(e.state.settings.show_precip_alerts) ? e._i(e.state.settings.show_precip_alerts, null) > -1 : e.state.settings.show_precip_alerts
@@ -27036,30 +27032,30 @@
                         } else e.state.settings.show_precip_alerts = i
                     }
                 }
-            }), e._v(" "), n("div", {
-                staticClass: "label"
-            }, [e._v(e._s(e.state.words.PrecipitationAlerts))]), e._v(" "), n("span", [e._m(2), n("span", {
+            }), e._v(" "), n("", {
+                staticClass: ""
+            }, [e._v(e._s(e.state.words.PrecipitationAlerts))]), e._v(" "), n("", [e._m(2), n("", {
                 domProps: {
                     innerHTML: e._s(e.proSettingText)
                 },
                 on: {
                     click: e.openUpgradePro
                 }
-            }), e._v(" "), n("a")])])])]), e._v(" "), n("div", {
-                staticClass: "group"
-            }, [n("div", {
-                staticClass: "option"
-            }, [n("label", {
-                staticClass: "switch-light switch-candy pointer"
-            }, [n("input", {
+            }), e._v(" "), n("")])])])]), e._v(" "), n("", {
+                staticClass: ""
+            }, [n("", {
+                staticClass: ""
+            }, [n("", {
+                staticClass: ""
+            }, [n("", {
                 directives: [{
-                    name: "model",
-                    rawName: "v-model",
+                    name: "",
+                    rawName: "",
                     value: e.state.settings.show_feels_like,
-                    expression: "state.settings.show_feels_like"
+                    expression: ""
                 }],
                 attrs: {
-                    type: "checkbox"
+                    type: ""
                 },
                 domProps: {
                     checked: Array.isArray(e.state.settings.show_feels_like) ? e._i(e.state.settings.show_feels_like, null) > -1 : e.state.settings.show_feels_like
@@ -27075,28 +27071,28 @@
                         } else e.state.settings.show_feels_like = i
                     }
                 }
-            }), e._v(" "), n("div", {
-                staticClass: "label"
-            }, [e._v(e._s(e.state.words.FeelsLikeBadge))]), e._v(" "), n("span", [e._m(3), e._v(" "), n("span", {
+            }), e._v(" "), n("", {
+                staticClass: ""
+            }, [e._v(e._s(e.state.words.FeelsLikeBadge))]), e._v(" "), n("", [e._m(3), e._v(" "), n("", {
                 domProps: {
                     innerHTML: e._s(e.proSettingText)
                 },
                 on: {
                     click: e.openUpgradePro
                 }
-            }), e._v(" "), n("a")])])]), e._v(" "), n("div", {
-                staticClass: "option"
-            }, [n("label", {
-                staticClass: "switch-light switch-candy pointer"
-            }, [n("input", {
+            }), e._v(" "), n("")])])]), e._v(" "), n("", {
+                staticClass: ""
+            }, [n("", {
+                staticClass: ""
+            }, [n("", {
                 directives: [{
-                    name: "model",
-                    rawName: "v-model",
+                    name: "",
+                    rawName: "",
                     value: e.state.settings.light_badge,
-                    expression: "state.settings.light_badge"
+                    expression: ""
                 }],
                 attrs: {
-                    type: "checkbox"
+                    type: ""
                 },
                 domProps: {
                     checked: Array.isArray(e.state.settings.light_badge) ? e._i(e.state.settings.light_badge, null) > -1 : e.state.settings.light_badge
@@ -27112,28 +27108,28 @@
                         } else e.state.settings.light_badge = i
                     }
                 }
-            }), e._v(" "), n("div", {
-                staticClass: "label"
-            }, [e._v(e._s(e.state.words.LightBadge))]), e._v(" "), n("span", [e._m(4), n("span", {
+            }), e._v(" "), n("", {
+                staticClass: ""
+            }, [e._v(e._s(e.state.words.LightBadge))]), e._v(" "), n("", [e._m(4), n("", {
                 domProps: {
                     innerHTML: e._s(e.proSettingText)
                 },
                 on: {
                     click: e.openUpgradePro
                 }
-            }), e._v(" "), n("a")])])]), e._v(" "), "en" == e.state.settings.language ? n("div", {
-                staticClass: "option"
-            }, [n("label", {
-                staticClass: "switch-light switch-candy pointer"
-            }, [n("input", {
+            }), e._v(" "), n("")])])]), e._v(" "), "" == e.state.settings.language ? n("", {
+                staticClass: ""
+            }, [n("", {
+                staticClass: ""
+            }, [n("", {
                 directives: [{
-                    name: "model",
-                    rawName: "v-model",
+                    name: "",
+                    rawName: "",
                     value: e.state.settings.show_quote,
-                    expression: "state.settings.show_quote"
+                    expression: ""
                 }],
                 attrs: {
-                    type: "checkbox"
+                    type: ""
                 },
                 domProps: {
                     checked: Array.isArray(e.state.settings.show_quote) ? e._i(e.state.settings.show_quote, null) > -1 : e.state.settings.show_quote
@@ -27149,23 +27145,23 @@
                         } else e.state.settings.show_quote = i
                     }
                 }
-            }), e._v(" "), n("div", {
-                staticClass: "label"
-            }, [e._v("Quote")]), e._v(" "), e._m(5)])]) : e._e()]), e._v(" "), n("div", {
-                staticClass: "group"
-            }, [n("div", {
-                staticClass: "option"
-            }, [n("label", {
-                staticClass: "switch-light switch-candy pointer"
-            }, [n("input", {
+            }), e._v(" "), n("", {
+                staticClass: ""
+            }, [e._v("")]), e._v(" "), e._m(5)])]) : e._e()]), e._v(" "), n("", {
+                staticClass: ""
+            }, [n("", {
+                staticClass: ""
+            }, [n("", {
+                staticClass: ""
+            }, [n("", {
                 directives: [{
-                    name: "model",
-                    rawName: "v-model",
+                    name: "",
+                    rawName: "",
                     value: e.state.settings.show_large_badge,
-                    expression: "state.settings.show_large_badge"
+                    expression: ""
                 }],
                 attrs: {
-                    type: "checkbox"
+                    type: ""
                 },
                 domProps: {
                     checked: Array.isArray(e.state.settings.show_large_badge) ? e._i(e.state.settings.show_large_badge, null) > -1 : e.state.settings.show_large_badge
@@ -29189,7 +29185,7 @@
 
         function a(e) {
             var t = document.createElement("iframe");
-            return t.className = "chartjs-hidden-iframe", t.style.cssText = "display:block;overflow:hidden;border:0;margin:0;top:0;left:0;bottom:0;right:0;height:100%;width:100%;position:absolute;pointer-events:none;z-index:-1;", t.tabIndex = -1, l.addEvent(t, "load", function () {
+            return t.className = "chartjs-hidden-iframe", t.style.cssText = "display:block;overflow:hidden;border:0;margin:0;top:0;left:0;bottom:0;right:0;width:100%;position:absolute;pointer-events:none;z-index:-1;", t.tabIndex = -1, l.addEvent(t, "load", function () {
                 l.addEvent(t.contentWindow || t, "resize", e), e()
             }), t
         }
@@ -33655,7 +33651,7 @@
     ]), r.locals && (e.exports = r.locals);
     n(3)("9c03ba78", r, !0)
 }, function (e, t, n) {
-    t = e.exports = n(2)(void 0), t.push([e.i, ".loading-wrapper[data-v-333adba6]{position:fixed;padding:0;margin:0;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.5);z-index:999}.absolute-center[data-v-333adba6]{margin:auto;position:absolute;top:0;left:0;bottom:0;right:0}.spinner[data-v-333adba6]{width:60px;height:60px}.double-bounce1[data-v-333adba6],.double-bounce2[data-v-333adba6]{width:100%;height:100%;border-radius:50%;background-color:#4681c3;opacity:.6;position:absolute;top:0;left:0;-webkit-animation:sk-bounce-data-v-333adba6 2s infinite ease-in-out;animation:sk-bounce-data-v-333adba6 2s infinite ease-in-out}.double-bounce2[data-v-333adba6]{-webkit-animation-delay:-1s;animation-delay:-1s}@-webkit-keyframes sk-bounce{0%,to{-webkit-transform:scale(0)}50%{-webkit-transform:scale(1)}}@keyframes sk-bounce-data-v-333adba6{0%,to{transform:scale(0);-webkit-transform:scale(0)}50%{transform:scale(1);-webkit-transform:scale(1)}}", ""])
+    t = e.exports = n(2)(void 0), t.push([e.i, ".loading-wrapper[data-v-333adba6]{position:fixed;padding:0;margin:0;top:0;left:0;width:100%;background:rgba(0,0,0,.5);z-index:999}.absolute-center[data-v-333adba6]{margin:auto;position:absolute;top:0;left:0;bottom:0;right:0}.spinner[data-v-333adba6]{width:60px;height:60px}.double-bounce1[data-v-333adba6],.double-bounce2[data-v-333adba6]{width:100%;border-radius:50%;background-color:#4681c3;opacity:.6;position:absolute;top:0;left:0;-webkit-animation:sk-bounce-data-v-333adba6 2s infinite ease-in-out;animation:sk-bounce-data-v-333adba6 2s infinite ease-in-out}.double-bounce2[data-v-333adba6]{-webkit-animation-delay:-1s;animation-delay:-1s}@-webkit-keyframes sk-bounce{0%,to{-webkit-transform:scale(0)}50%{-webkit-transform:scale(1)}}@keyframes sk-bounce-data-v-333adba6{0%,to{transform:scale(0);-webkit-transform:scale(0)}50%{transform:scale(1);-webkit-transform:scale(1)}}", ""])
 }, function (e, t, n) {
     "use strict";
     Object.defineProperty(t, "__esModule", {
